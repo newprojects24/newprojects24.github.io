@@ -1,0 +1,20 @@
+ul {
+  list-style-type: none;
+}
+
+h1,h2 {
+	background: aqua;
+}
+
+.head {
+	border-bottom: solid aqua;
+}
+
+.nav-list {
+	border-right: solid aqua;
+}
+
+.nav-item {
+	background: aqua;
+	font-weight: bold;
+}
